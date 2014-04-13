@@ -5,6 +5,7 @@ apt-get install git-core
 apt-get install nodejs-legacy
 apt-get install npm
 apt-get install mysql-server
+apt-get install texlive-full
 
 npm install -g grunt grunt-cli
 
