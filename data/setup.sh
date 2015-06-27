@@ -27,5 +27,6 @@ grunt install
 
 # grunt run > out.log 2> error.log &
 # disown
+# mkdir /root/clsi-sharelatex/cache
 
 # tlmgr update --self --all --reinstall-forcibly-removed
